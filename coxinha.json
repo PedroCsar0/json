@@ -1,0 +1,25 @@
+{
+    "produtos": [
+        {
+            "tipo": "Vibrador Alienzinho",
+            "nome": "VibraMax Alien Pro",
+            "preco":"1500,00",
+            "foto": "https://presshook.s3.amazonaws.com/media/images/alien-dildo_vibrator.height-600.png",
+            "descricao": "Vibrador recarregável com 10 modos de vibração, à prova d'água para fãs de Alienígenas do passado."
+        },
+        {
+            "tipo": "Vibrador",
+            "nome": "SilentWave",
+            "preco":"3000,00",
+            "foto": "https://lovematch.world/cdn/shop/products/mario1_1024x.png",
+            "descricao": "Design discreto, silencioso e com vibrações intensas, ideal para uso em qualquer lugar."
+        },
+        {
+            "tipo": "Vibrador",
+            "nome": "DoubleDelight",
+            "preco":"7000,00",
+            "foto": "https://mario.wiki.gallery/images/thumb/9/98/Mario_RPG_Birdo.png/170px-Mario_RPG_Birdo.png",
+            "descricao": "Vibrador para fãs da Nintendo, perfeito para estimulação simultânea de diferentes zonas erógenas."
+        }
+    ]
+}
